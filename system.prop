@@ -1,0 +1,6 @@
+ro.display.series=Samsung A52s 5G
+ro.product.board=SRPUE26A001
+ro.board.platform=lahaina
+ro.boot.dynamic_partitions=true
+sys.usb.controller=musb-hdrc
+#fbe.metadata.wrappedkey=true 
